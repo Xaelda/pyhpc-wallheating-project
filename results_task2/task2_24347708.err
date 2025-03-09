@@ -1,0 +1,17 @@
+Loaded module: cuda/11.8
+
+real	0m49.478s
+user	0m49.258s
+sys	0m0.083s
+
+real	1m19.533s
+user	1m19.222s
+sys	0m0.152s
+
+real	2m27.185s
+user	2m26.679s
+sys	0m0.261s
+
+real	3m26.782s
+user	3m25.969s
+sys	0m0.363s
