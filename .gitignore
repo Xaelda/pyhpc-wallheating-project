@@ -1,10 +1,10 @@
 #directories
 outputs/
 models/*
-data/
+#data/
 
 .env
-data/*
+#data/*
 models/
 
 # other local dev info
