@@ -1,7 +1,7 @@
 from os.path import join
 import numpy as np
 from numba import cuda
-import math
+
 
 def load_data(load_dir, bid):
     SIZE = 512
