@@ -1,0 +1,22 @@
+Loaded module: cuda/11.8
+
+real	0m18.632s
+user	0m18.140s
+sys	0m0.164s
+
+real	0m49.424s
+user	0m48.906s
+sys	0m0.185s
+
+real	5m32.086s
+user	5m30.570s
+sys	0m0.541s
+
+real	2m35.116s
+user	2m34.356s
+sys	0m0.220s
+
+real	6m57.733s
+user	6m56.498s
+sys	0m0.209s
+User defined signal 2
